@@ -1,4 +1,4 @@
-### Hi there 👋
+### 호기심은 많은 개발자 이동현입니다. 🌱
 
 <!--
 **Dhyunlee/Dhyunlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 
